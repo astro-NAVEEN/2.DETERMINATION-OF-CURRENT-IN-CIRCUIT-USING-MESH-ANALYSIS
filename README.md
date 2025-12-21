@@ -22,7 +22,12 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="437" height="607" alt="Screenshot 2025-12-21 214828" src="https://github.com/user-attachments/assets/af6df767-4878-41eb-a252-3a5574eeb3a5" />
+
+<img width="496" height="653" alt="Screenshot 2025-12-21 215130" src="https://github.com/user-attachments/assets/59059601-37c7-4485-862d-0b4e7c36fcac" />
+
 **PROCEDURE:** 
+
 
 1.	Give connections as per the circuit diagram.
 
